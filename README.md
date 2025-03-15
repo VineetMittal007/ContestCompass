@@ -2,7 +2,7 @@
 
 # 🚀 React Full-Stack Application
 
-Welcome to the repository for our dynamic and responsive full-stack application! This project showcases a seamless integration of a modern React frontend with a robust [Specify your backend technology, e.g., Node.js/Express] backend. Dive in to explore the features and setup instructions.
+Welcome to the repository for our dynamic and responsive full-stack application! This project showcases a seamless integration of a modern React frontend with a robust [e.g., Node.js/Express] backend. Dive in to explore the features and setup instructions.
 
 <p align="center">
   <img src="https://via.placeholder.com/600x300?text=Application+Screenshot" alt="Application Screenshot" width="600">
@@ -40,7 +40,7 @@ Markdown
 
 # 🚀 React Full-Stack Application
 
-Welcome to the repository for our dynamic and responsive full-stack application! This project showcases a seamless integration of a modern React frontend with a robust [Specify your backend technology, e.g., Node.js/Express] backend. Dive in to explore the features and setup instructions.
+Welcome to the repository for our dynamic and responsive full-stack application! This project showcases a seamless integration of a modern React frontend with a robust [e.g., Node.js/Express to name a few] backend. Dive in to explore the features and setup instructions.
 
 <p align="center">
   <img src="https://via.placeholder.com/600x300?text=Application+Screenshot" alt="Application Screenshot" width="600">
@@ -131,11 +131,12 @@ The backend is built using [Specify your backend technology, e.g., Node.js with 
 
 ### Backend Technologies Used
 
--   [Specify your backend technology, e.g., Node.js]
--   [Specify your backend framework, e.g., Express.js]
--   [Specify your database, e.g., MongoDB with Mongoose]
--   [Specify any middleware, e.g., CORS, body-parser]
--   [Specify authentication libraries, e.g., jsonwebtoken, bcrypt]
+-   Node.js
+-   Express.js
+-   MongoDB Mongoose
+-   CORS, Middleware
+-   jsonwebtoken
+
 
 ### Backend Setup
 
@@ -209,4 +210,4 @@ Create a `.env` file in the root directory to store environment variables.
 
 ## License
 
-[Specify your license, e.g., MIT License]
+[ MIT License]
